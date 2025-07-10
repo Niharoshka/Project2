@@ -1,6 +1,7 @@
 import { Component, useState } from "react";
 import { Container } from "react-bootstrap";
 import "./App.css";
+//impo
 // class Slider extends Component {
 //   constructor(props) {
 //     super(props);
